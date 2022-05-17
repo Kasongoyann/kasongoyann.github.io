@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="shortcut icon" type="png" href="images/icon/favicon.png">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Comaptible" content="IE=edge">
+	<title>YAN TECH</title>
+	<meta name="desciption" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script type="text/javascript" src="script.js"></script>
+	<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+	<script>
+		$(window).on('scroll', function(){
+  			if($(window).scrollTop()){
+  			  $('nav').addClass('black');
+ 			 }else {
+ 		   $('nav').removeClass('black');
+ 		 }
+		})
+	</script>
+</head>
+<body>
+<!-- Navigation Bar -->
+	<header id="header">
+		<nav>
+			<div class="logo"><img src="images/icon/logo.png" alt="logo"></div>
+			<ul>
+				<li><a class="active" href="">Accueil</a></li>
+				<li><a href="#about_section">Apropos</a></li>
+				<li><a href="#team_section">Notre equipe</a></li>
+				<li><a href="#services_section">Tutoriels</a></li>
+				<li><a href="#contactus_section">Posez une question</a></li>
+			</ul>
+			<div class="srch"><input type="text" class="search" placeholder="Rechercher..."><img src="images/icon/search.png" alt="search" onclick=slide()></div>
+			<a class="get-started" href="login.html">se connecter</a>
+			<img src="images/icon/menu.png" class="menu" onclick="sideMenu(0)" alt="menu">
+		</nav>
+		<div class="head-container">
+			<div class="quote">
+				<p> Icie vous trouverez des nombres tutoriels et astuces infomatiques  destines aux particuliers pour divers sujets.</p>
+				<h5></h5>
+				<div class="play">
+					<img src="images/icon/play.png" alt="play"><span><a href="https://www.youtube.com/watch?v=KFyrgDO1WXk" target="_blank">Watch Now</a></span>
+				</div>
+			</div>
+			<div class="svg-image">
+				<img src="images/extra/svg1.png" alt="svg">
+			</div>
+		</div>
+		<div class="side-menu" id="side-menu">
+			<div class="close" onclick="sideMenu(1)"><img src="images/icon/close.png" alt=""></div>
+			<div class="user">
+				<img src="images/creator/img2.jpg" alt="Username">
+				<p>YAN TECH</p>
+			</div>
+			<ul>
+				<li><a href="#about_section">About</a></li>
+				<li><a href="#portfolio_section">Portfolio</a></li>
+				<li><a href="#team_section">Team</a></li>
+				<li><a href="#services_section">Services</a></li>
+				<li><a href="#contactus_section">Contact</a></li>
+				<li><a href="#feedBACK">Feedback</a></li>
+			</ul>
+		</div>
+	</header>
+
+
+	
+
+		</div>
+	</div>
+
+
+
+		</div>
+	</div>
+	<div class="extra">
+		<p> La non maitrise de l'informatique est un handicap majeur.</p>
+		<div class="smbox">
+		<span><center><div class="data">copier</div><div class="det"></div></center></span>
+		<span><center><div class="data">coller</div><div class="det"></div></center></span>
+		<span><center><div class="data">modifier</div><div class="det"></div></center></span>
+		</div>
+	</div>
+
+
+<!-- TEAM -->
+	<div class="diffSection" id="team_section">
+		<center><p style="font-size: 50px; padding-top: 100px; padding-bottom: 60px;">Qui Sommes Nous ?</p></center>
+		<div class="totalcard">
+			<div class="card">
+				<center><img src="images/creator/img1.jpg"></center>
+				<center><div class="card-title">YAN KASONGO</div>
+				<div id="detail">
+					<p>“ Etudiant en  reseaux et telecommunications competent et passione de la securite informatique specialiste en hacking “</p>
+					<div class="duty"></div>
+					<a href="https://www.youtube.com/channel/UCn1qNvXfy3pFQ411vKaDirA" target="_blank"><button class="btn-susan">suivre +</button></a>
+				</div>
+				</center>
+			</div>
+			<div class="card">
+				<center><img src="images/creator/img2.jpg"></center>
+				<center><div class="card-title">BENI NTWALI</div>
+				<div id="detail">
+					<p>“ Etudiant en  reseaux et telecommunications competent et passione de la programmation specialiste en programmation web “</p>
+					<div class="duty"></div>
+					<a href="https://www.instagram.com/codicgyan/?hl=en" target="_blank"><button class="btn-codicgyan">suivre +</button></a>
+				</div>
+				</center>
+			</div>
+		</div>
+	</div>
+
+
+<!-- SERVICES -->
+	<div class="service-swipe">
+		<div class="diffSection" id="services_section">
+		<center><p style="font-size: 50px; padding: 100px; padding-bottom: 40px; color: #fff;">Services</p></center>
+		</div>
+		<a href="securite informatique.html"><div class="s-card"><img src="images/icon/computer-courses.png"><p>Securite informatique</p></div></a>
+		<a href="Technique de maintenances en informatique.html"><div class="s-card"><img src="images/icon/brainbooster.png"><p>Technique de maintenances en informatique</p></div></a>
+		<a href=Divers.html><div class="s-card"><img src="images/icon/online-tutorials.png"><p>Divers</p></div></a>
+		<a href="subjects/jee.html#sample_papers"><div class="s-card"><img src="images/icon/papers.jpg"><p>Base de donnees</p></div></a>
+		<a href="#"><div class="s-card"><img src="images/icon/p3.png"><p>logiciels a maitriser</p></div></a>
+		<a href="#contactus_section"><div class="s-card"><img src="images/icon/discussion.png"><p>messagerie</p></div></a>
+		<a href="subjects/quiz.html"><div class="s-card"><img src="images/icon/q1.png"><p>infrastructures Reseaux</p></div></a>
+		<a href="#contactus_section"><div class="s-card"><img src="images/icon/help.png"><p>Travaux pratiques</p></div></a>
+	</div>
+
+<!-- Reviews by Students -->
+<div id="makeitfull">
+	<a href="#review_section"><img src="images/icon/makeitfull.png"></a>
+</div>
+<div class="review">
+	<div class="diffSection" id="review_section">
+		
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- poser une Question -->
+	<div class="diffSection" id="contactus_section">
+		<center><p style="font-size: 50px; padding: 100px">poser une Question</p></center>
+		<div class="csec"></div>
+		<div class="back-contact">
+			<div class="cc">
+			<form action="mailto:roshank9419@gmail.com" method="post" enctype="text/plain">
+				<label>Nom  <span class="imp">*</span></label><label style="margin-left: 185px">Post Nom <span class="imp">*</span></label><br>
+				<center>
+				<input type="text" name="" style="margin-right: 10px; width: 175px" required="required"><input type="text" name="lname" style="width: 175px" required="required"><br>
+				</center>
+				<label>Email <span class="imp">*</span></label><br>
+				<input type="email" name="mail" style="width: 100%" required="required"><br>
+				<label>votre Question <span class="imp">*</span></label><br>
+				<input type="text" name="message" style="width: 100%" required="required"><br>
+				<label> Details</label><br>
+				<textarea name="addtional"></textarea><br>
+				<button type="submit" id="csubmit">envoyez le message</button>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+<!-- FEEDBACK -->
+	<div class="title2" id="feedBACK">
+		<span>Give Feedback</span>
+		<div class="shortdesc2">
+			<p>Please share your valuable feedback to us</p>
+		</div>
+	</div>
+
+	<div class="feedbox">
+		<div class="feed">
+			<form action="mailto:roshank9419@gmail.com" method="post" enctype="text/plain">
+				<label> Votre nom</label><br>
+				<input type="text" name="" class="fname" required="required"><br>
+				<label>Email</label><br>
+				<input type="email" name="mail" required="required"><br>
+				<label> Details</label><br>
+				<textarea name="addtional"></textarea><br>
+				<button type="submit" id="csubmit">envoyer le message</button>
+			</form>
+		</div>
+	</div>
+
+<!-- Sliding Information -->
+	<marquee style="background: linear-gradient(to right, #FA4B37, #DF2771); margin-top: 50px;" direction="left" onmouseover="this.stop()" onmouseout="this.start()" 
+	scrollamount="10"><div class="marqu">“Bienvenue a tous sur YAN TECH.COM ces ci est une plate forme d'apprensissage des technique et astuces informatique le site est encore en version Beta nous vous demandons de donner votre avis sur le fonctionnement et amelioration qu'on peut apporte au site , Merci pour votre colaboration.”</div></marquee>
+
+<!-- FOOTER -->
+	<footer>
+		<div class="footer-container">
+			<div class="left-col">
+				<img src="images/icon/logo - Copy.png" style="width: 200px;">
+				<div class="logo"></div>
+				<div class="social-media">
+					<a href="#"><img src="images/icon\fb.png"></a>
+					<a href="#"><img src="images/icon\insta.png"></a>
+					<a href="#"><img src="images/icon\tt.png"></a>
+					<a href="#"><img src="images/icon\ytube.png"></a>
+					<a href="#"><img src="images/icon\linkedin.png"></a>
+				</div><br><br>
+				<p class="rights-text">Copyright © 2022 Created By YAN Tech - kasongo All Rights Reserved.</p>
+				<br><p><img src="images/icon/location.png"> <br>democratic republic of congo, lubumbashi</p><br>
+				<p><img src="images/icon/phone.png"> +243-9744-019-67<br><img src="images/icon/mail.png">&nbsp; kasongoyannick41@gmail.com</p>
+			</div>
+			<div class="right-col">
+				<h1 style="color: #fff">Notre Newsletter</h1>
+				<div class="border"></div><br>
+				<p>saisissez votre Email pour etre informer de nos tout derniers articles et nouveaute.</p>
+				<form class="newsletter-form">
+					<input class="txtb" type="email" placeholder="saisissez votre Email">
+					<input class="btn" type="soumettre" value="soumettre">
+				</form>
+			</div>
+		</div>
+	</footer>
+
+</body>
+</html>

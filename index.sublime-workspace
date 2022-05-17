@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"red",
+				"darkred"
+			],
+			[
+				"w",
+				"whitesmoke"
+			],
+			[
+				"blue",
+				"blueviolet"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wh",
+				"whitesmoke"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"whi",
+				"navajowhite"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"sp",
+				"span"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"he",
+				"header"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/php/.db/chat_app_db.sql",
+		"/C/Users/YANN/Desktop/lk/index.html",
+		"/C/Users/YANN/Desktop/travel website/travel website/index.html.txt",
+		"/C/Users/YANN/Desktop/Site complet/inde.html",
+		"/C/Users/YANN/Desktop/Site complet/index.html",
+		"/C/Users/YANN/Desktop/Site complet/style.css",
+		"/C/Users/YANN/Documents/SITE UPL/index.html",
+		"/C/Users/YANN/Documents/SITE UPL/produit.html",
+		"/C/Users/YANN/Documents/SITE UPL/NOUS CONTACTEZ.html",
+		"/C/Users/YANN/Documents/SITE UPL/script.js",
+		"/C/Users/YANN/Documents/SITE UPL/style.css",
+		"/C/Users/YANN/Documents/SITE UPL/contact.html",
+		"/C/Users/YANN/Documents/SITE UPL/footer.html.html",
+		"/C/Users/YANN/Desktop/Responsive Navbar (1)/Responsive Navbar/index.html",
+		"/C/Users/YANN/Desktop/Responsive Portfolio Website/Responsive Portfolio Website/index.html",
+		"/C/Users/YANN/Desktop/Responsive Navbar (1)/Responsive Navbar/style.css",
+		"/C/Users/YANN/Desktop/projet/Responsive Mega Menu/index.html",
+		"/C/Users/YANN/Desktop/projet/Responsive Mega Menu/style.css",
+		"/C/Users/YANN/Desktop/Responsive Portfolio Website/Responsive Portfolio Website/style.css",
+		"/C/Users/YANN/Desktop/Responsive Portfolio Website/Responsive Portfolio Website/indexs.html",
+		"/C/Users/YANN/Desktop/SITE UPL/index.html",
+		"/C/Users/YANN/Desktop/SITE UPL/rr.html",
+		"/C/Users/YANN/Desktop/SITE UPL/form.html",
+		"/C/Users/YANN/Desktop/SITE UPL/contact.html",
+		"/C/Users/YANN/Desktop/CSS Text Typing Animation/CSS Text Typing Animation/style.css",
+		"/C/Users/YANN/Desktop/CSS Text Typing Animation/CSS Text Typing Animation/index.html",
+		"/C/Users/YANN/Desktop/SITE UPL/styles.css",
+		"/C/Users/YANN/Desktop/SITE UPL/style.css",
+		"/C/Users/YANN/Desktop/text/text.html",
+		"/C/Users/YANN/Desktop/text/style.css",
+		"/C/wamp64/www/blogtuto/index.php",
+		"/C/wamp64/www/blogtuto/assets/css/main.css",
+		"/C/wamp64/www/Responsive Navbar/index.html",
+		"/C/Users/YANN/Desktop/yan.html",
+		"/C/wamp64/bin/mysql/mysql5.7.31/my.ini",
+		"/C/wamp64/bin/apache/apache2.4.46/bin/php.ini",
+		"/C/wamp64/bin/apache/apache2.4.46/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
